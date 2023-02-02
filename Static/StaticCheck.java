@@ -1,3 +1,4 @@
+package Static;
 // Java program to demonstrate execution
 // of static blocks and variables
 

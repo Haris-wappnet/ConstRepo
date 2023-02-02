@@ -1,3 +1,5 @@
+package Static;
+
 class Class1{
     static int var = 1;
     static void meth(){
